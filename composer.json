@@ -1,0 +1,19 @@
+{
+    "name": "kilian2402/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kilian2402\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kilian Roland Maier",
+            "email": "kmaier@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
